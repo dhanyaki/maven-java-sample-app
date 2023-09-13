@@ -1,1 +1,2 @@
-add fourth line									add fifth line									add sixth line		
+add samplefile line
+add samplefile second line
